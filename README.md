@@ -1,5 +1,5 @@
 # Assignment-1
-# README: Insertion Sort in Monotonically Decreasing Order
+# Insertion Sort in Monotonically Decreasing Order
 #Project Overview
 
 This project demonstrates the implementation of the Insertion Sort algorithm in Python, modified to arrange elements in a monotonically decreasing order. The assignment also emphasizes foundational software development practices, including environment setup, use of an integrated development environment (IDE), and version control with GitHub. Together, these components provide hands-on experience with both algorithmic problem-solving and professional development workflows.
